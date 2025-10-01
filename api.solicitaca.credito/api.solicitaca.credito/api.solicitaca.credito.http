@@ -1,0 +1,6 @@
+@api.solicitaca.credito_HostAddress = http://localhost:5258
+
+GET {{api.solicitaca.credito_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
